@@ -1,7 +1,7 @@
 export default {
     title: 'Yongli Zhu Main Page',
     description: 'Just playing around.',
-    base: '/~yongliz/',
+    base: '/',
     appearance: true,
     themeConfig: {
         sidebar: [
