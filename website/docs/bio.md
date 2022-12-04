@@ -1,7 +1,0 @@
-# Biography
-## 
-I am currently working as a Postdoctoral Researcher at Texas A&M University on electric power system reliability. 
-
-I have over ten years of research experience in electrical and computer engineering in prestigious institutions. I got my bachelor’s degree in Electrical and Electronic Engineering in 2009 from Huazhong University of Science and Technology (HUST) in China. In 2014, I started my Ph.D. study at the University of Tennessee, Knoxville (UTK). Finally, I obtained my Ph.D. degree in 2018. During my Ph.D. study, I was awarded the “EECS Department Excellence Fellowship” from the University of Tennessee, Knoxville. In 2017, I obtained a certificate of the training program provided by the RT-LAB company for its tools.  
-
-After graduation in August 2018, I joined GEIRI North America (an industry lab for power system consulting service) as a postdoc researcher. Then, in August 2019, I was promoted to a full-time software engineer in the same company. During the work there, I co-authored one U.S. patent. Due to my contribution to the *graph-database* energy management system project, I was also awarded a letter of thanks from the power utility company of Sichuan province in China. Owing to my expertise, I have been invited to judge the work of others for leading journals, and my reviewing contribution has been recognized by the power systems academic community in 2021. I also ranked 6th in a public machine-learning competition organized by Tesla, Inc.
